@@ -1,1 +1,1 @@
-This is Wamka Touch's first git project
+This is Wamka Touch's first git project.
